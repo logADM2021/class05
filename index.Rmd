@@ -59,6 +59,13 @@ xaringanExtra::use_extra_styles(
 )
 ```
 
+```{r}
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
+```
+```
+
+
 class: middle
 
 ## - Impressão 3D
